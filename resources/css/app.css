@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alert { padding: 15px; }
+.alert-success { background-color: green; color: white; }
+.d-none { display: none; }
+body{background-color: yellow !important;}
